@@ -2,7 +2,7 @@
 
 **Enterprise-grade PII Detection and Masking for AI Traffic Protection**
 
-[![License: Full IP buyout](https://img.shields.io/badge/License-Commercial-blue.svg)](LICENSE)
+[![License: Full IP buyout](https://img.shields.io/badge/License-Full IP buyout-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 
