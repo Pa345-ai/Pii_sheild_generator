@@ -1,0 +1,96 @@
+PII-Shield Engine - Commercial License
+
+Copyright (c) 2024 PII-Shield Team. All rights reserved.
+
+COMMERCIAL LICENSE TERMS
+========================
+
+This software and associated documentation files (the "Software") are proprietary
+and confidential. Upon purchase of a commercial license, the buyer receives:
+
+GRANT OF LICENSE:
+
+Standard License ($20,000 USD):
+- Full source code access
+- Unlimited internal deployments within the purchasing organization
+- Right to modify and customize the Software
+- 90 days of email support
+- Security patches and bug fixes for 12 months
+- No redistribution rights outside the organization
+
+Enterprise License ($35,000 USD):
+- All Standard License benefits
+- Development of up to 3 custom PII types
+- 10 hours of integration consulting
+- Priority support for 12 months
+- White-label option
+- Extended customization rights
+
+RESTRICTIONS:
+
+1. The Software may not be redistributed, sublicensed, or resold as a standalone
+   product outside the purchasing organization.
+
+2. The Software may not be used to create competing products or services.
+
+3. The source code may not be shared with entities outside the purchasing
+   organization without explicit written permission.
+
+4. Any modifications or derivative works must include this license notice.
+
+WARRANTY DISCLAIMER:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY:
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+SUPPORT AND MAINTENANCE:
+
+- Email support: support@pii-shield.example.com
+- Response time: Within 2 business days (Standard), 24 hours (Enterprise)
+- Bug fixes and security patches provided for licensed period
+- Version updates included within major version (1.x.x)
+
+TERMINATION:
+
+This license is perpetual for the Software version purchased. Support and
+update entitlements expire after the specified period unless renewed.
+
+GOVERNING LAW:
+
+This Agreement shall be governed by and construed in accordance with the
+laws of [Jurisdiction], without regard to its conflict of law provisions.
+
+CONTACT:
+
+For licensing inquiries, contact:
+Email: sales@pii-shield.example.com
+Web: https://pii-shield.example.com
+
+---
+
+OPEN SOURCE COMPONENTS:
+
+This Software may include or depend on open source components, each subject
+to its own license terms:
+
+- FastAPI (MIT License)
+- Uvicorn (BSD License)
+- Pydantic (MIT License)
+
+See requirements.txt for a complete list of dependencies.
+
+---
+
+By purchasing and using this Software, you agree to be bound by the terms
+of this license agreement.
+
+Last Updated: February 2024
+Version: 1.0.0
