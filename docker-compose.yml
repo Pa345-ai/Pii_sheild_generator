@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  pii-shield:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pii-shield-engine
+    ports:
+      - "8000:8000"
+    environment:
+      - LOG_LEVEL=info
+      - WORKERS=4
+      - ENABLE_CONTEXT_VALIDATION=true
+      - ENABLE_STRICT_VALIDATION=true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - pii-shield-network
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+        reservations:
+          cpus: '1'
+          memory: 2G
+
+networks:
+  pii-shield-network:
+    driver: bridge
