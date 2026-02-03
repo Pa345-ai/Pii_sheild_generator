@@ -351,7 +351,7 @@ Every aggregator worries about AI legal liability
 ✅ 90 days email support  
 
 ### Pricing
-- ****: $27,000  
+- : $27,000  
 ---
 
 ## 📞 Support
