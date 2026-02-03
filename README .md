@@ -359,7 +359,7 @@ Every aggregator worries about AI legal liability
 ## 📞 Support
 
 - **Documentation**: http://localhost:8000/docs
-- **Email**: support@pii-shield.example.com
+- **Email**: ruwanpuragepawannimeshranasing@gmail.com
 - **Demo**: Schedule at calendly.com/pii-shield-demo
 
 ---
