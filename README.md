@@ -341,7 +341,7 @@ Every aggregator worries about AI legal liability
 
 ## 📄 License
 
-**Commercial License** - Source code included with purchase
+**IPbuyout** - Source code included with purchase
 
 ### What You Get
 ✅ Full source code  
@@ -351,9 +351,7 @@ Every aggregator worries about AI legal liability
 ✅ 90 days email support  
 
 ### Pricing
-- **Standard**: $20,000  
-- **Enterprise**: $35,000 (includes custom PII types + consulting)  
-
+- ****: $27,000  
 ---
 
 ## 📞 Support
